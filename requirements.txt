@@ -1,0 +1,8 @@
+groq 
+sounddevice 
+soundfile 
+requests 
+python-dotenv 
+numpy
+streamlit
+elevenlabs
