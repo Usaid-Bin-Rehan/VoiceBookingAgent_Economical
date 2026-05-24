@@ -6,3 +6,6 @@ python-dotenv
 numpy
 streamlit
 elevenlabs
+fastapi
+uvicorn
+twilio
